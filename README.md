@@ -41,3 +41,12 @@ Ainda não tenho experiência profissional na área de tecnologia, mas compenso 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eia.ai%2Fblog%2Fd0b7e35b-41d9-4395-bf7d-31a05d750ca1&psig=AOvVaw0GtSsv8bARJnsVyG4ajFTQ&ust=1756229506095000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIi7xui-po8DFQAAAAAdAAAAABAE)" 
+/>
