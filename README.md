@@ -4,8 +4,11 @@
 
 **Developer Python | SQL | Exel | Power BI**
 
-Me chamo Claudio Rocha Bastos Freire, tenho 22 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Colégio Gape, e atualmente estou cursando Analise e desenvolvimento de sistemas na Estácio de sá.Tenho me dedicado intensamente aos estudos, focando em dev.
-Ainda não tenho experiência profissional na área de tecnologia, mas compenso isso com muita curiosidade, dedicação e uma enorme vontade de aprender. Gosto de desafios, trabalho bem em equipe, sou bastante comunicativo e estou sempre em busca de evoluir.
+Meu nome é Claudio Rocha Bastos Freire, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas pela Estácio de Sá, com foco em desenvolvimento de software.
+
+Sou uma pessoa apaixonada por tecnologia e inovação, sempre em busca de novos desafios que me permitam expandir meus conhecimentos e habilidades. Tenho facilidade para trabalhar em equipe, valorizo a comunicação clara e eficiente, e acredito que a colaboração é fundamental para alcançar resultados de excelência.
+
+Além disso, sou proativo, dedicado e comprometido com meu crescimento profissional e pessoal. Estou constantemente buscando oportunidades para aprender, evoluir e contribuir de forma significativa nos projetos em que me envolvo.
 
 ### 🤖 Linguagens e Tecnologias
 
