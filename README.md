@@ -2,7 +2,7 @@
 
 #  Claudio Rocha 
 
-** Html | Css | Git | Python | SQL | JavaScript | Linux | Docker | Terraform | 
+ Html | Css | Git | Python | SQL | JavaScript | Linux | Docker | Terraform 
 
 Sou Claudio Rocha Bastos Freire, tenho 22 anos e sou natural do Rio de Janeiro.
 Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio de Sá, com foco em desenvolvimento de software.
