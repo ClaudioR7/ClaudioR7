@@ -2,13 +2,14 @@
 
 #  Claudio Rocha 
 
-** Python | Javascript | SQL | Excel | Power BI | Docker | Terraform | Git | Linux
+** Html | Css | Git | Python | SQL | JavaScript | Linux | Docker | Terraform | 
 
-Meu nome é Claudio Rocha Bastos Freire, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas pela Estácio de Sá, com foco em desenvolvimento de software.
+Sou Claudio Rocha Bastos Freire, tenho 22 anos e sou natural do Rio de Janeiro.
+Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio de Sá, com foco em desenvolvimento de software.
 
-Sou uma pessoa apaixonada por tecnologia e inovação, sempre em busca de novos desafios que me permitam expandir meus conhecimentos e habilidades. Tenho facilidade para trabalhar em equipe, valorizo a comunicação clara e eficiente, e acredito que a colaboração é fundamental para alcançar resultados de excelência.
+Sou apaixonado por tecnologia e inovação, sempre em busca de novos desafios que ampliem meus conhecimentos e fortaleçam minhas habilidades técnicas. Tenho facilidade para trabalhar em equipe, valorizo a comunicação clara e eficiente, e acredito que a colaboração é essencial para alcançar resultados de excelência.
 
-Além disso, sou proativo, dedicado e comprometido com meu crescimento profissional e pessoal. Estou constantemente buscando oportunidades para aprender, evoluir e contribuir de forma significativa nos projetos em que me envolvo.
+Sou uma pessoa proativa, dedicada e comprometida com o crescimento profissional e pessoal. Busco constantemente aprender, evoluir e contribuir de forma significativa nos projetos dos quais participo, entregando soluções práticas e bem estruturadas.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -65,10 +66,32 @@ Além disso, sou proativo, dedicado e comprometido com meu crescimento profissio
 
 <img
     align="left" 
-    alt="JavaScript" 
-    title="Javascript"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
     />
+
+   <img
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+    />
+
+    
+   <img
+    align="left" 
+    alt="Terraform" 
+    title="Terraform"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
+    />
+
+
+   
         
