@@ -2,7 +2,7 @@
 
 #  Claudio Rocha 
 
-**Developer Python | SQL | Exel | Power BI**
+** Python | Javascript | SQL | Excel | Power BI | Docker | Terraform | Git | Linux
 
 Meu nome é Claudio Rocha Bastos Freire, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas pela Estácio de Sá, com foco em desenvolvimento de software.
 
@@ -52,4 +52,13 @@ Além disso, sou proativo, dedicado e comprometido com meu crescimento profissio
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="JavaScript" 
+    title="Javascript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
 />
