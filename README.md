@@ -3,12 +3,11 @@
 #  Claudio Rocha 
 
 Sou Claudio Rocha Bastos Freire, tenho 22 anos e sou natural do Rio de Janeiro.
-Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio de Sá, com foco em desenvolvimento de software.
+Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio de Sá, com foco em DevOps.
 
 Sou apaixonado por tecnologia e inovação, sempre em busca de novos desafios que ampliem meus conhecimentos e fortaleçam minhas habilidades técnicas. Tenho facilidade para trabalhar em equipe, valorizo a comunicação clara e eficiente, e acredito que a colaboração é essencial para alcançar resultados de excelência.
 
-Sou uma pessoa proativa, dedicada e comprometida com o crescimento profissional e pessoal. Busco constantemente aprender, evoluir e contribuir de forma significativa nos projetos dos quais participo, entregando soluções práticas e bem estruturadas.
-
+Sou comunicativo, colaborativo e motivado por desafios, sempre buscando aprender novas ferramentas e melhorar processos. Tenho grande interesse em pipelines CI/CD, conteinerização, monitoramento e cloud computing.
 ### 🤖 Linguagens e Tecnologias
 
 <img 
