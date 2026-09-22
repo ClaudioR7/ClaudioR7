@@ -1,11 +1,21 @@
-## Claudio Rocha
+## # Claudio Rocha
+  **DevOps Engineer**
 
-#  Claudio Rocha 
+  Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio de SÁ, com foco total em **DevOps e Engenharia de
+  Confiabilidade (SRE)**. Meu objetivo é otimizar o ciclo de vida de entrega de software, eliminando gargalos manuais e
+  aumentando a estabilidade de sistemas em produção.
 
-Sou Claudio Rocha Bastos Freire, tenho 22 anos e sou natural do Rio de Janeiro.
-Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio de Sá, com foco em DevOps.
+  ### 🎯 Objetivos e Competências
+  - **Cultura DevOps:** Implementação de CI/CD, automação de testes e deploys contínuos.
+  - **Cloud Computing:** Provisionamento de recursos escaláveis e gestão de custos em nuvem.
+  - **Infraestrutura como Código (IaC):** Substituição de configurações manuais por código versionado (GitOps).
+  - **Containerização:** Orquestração de microsserviços com Docker e Kubernetes.
 
-Sou apaixonado por tecnologia e inovação, sempre em busca de novos desafios que ampliem meus conhecimentos e fortaleçam minhas habilidades técnicas. Tenho facilidade para trabalhar em equipe, valorizo a comunicação clara e eficiente, e acredito que a colaboração é essencial para alcançar resultados de excelência.
+  ### 🛠️ Ferramentas de Trabalho
+  - **Linguagens:** Python,Bash Scripting.
+  - **Cloud/Infra:** Docker, Kubernetes, Terraform, Ansible.
+  - **CI/CD:** GitHub Actions, Jenkins.
+  - **OS:** Administração de sistemas Linux.
 
 Sou comunicativo, colaborativo e motivado por desafios, sempre buscando aprender novas ferramentas e melhorar processos. Tenho grande interesse em pipelines CI/CD, conteinerização, monitoramento e cloud computing.
 ### 🤖 Linguagens e Tecnologias
@@ -25,24 +35,6 @@ Sou comunicativo, colaborativo e motivado por desafios, sempre buscando aprender
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-
-<img
-    align="left" 
-    alt="JavaScript" 
-    title="Javascript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"         
 />
 
 <img
