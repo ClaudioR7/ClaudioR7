@@ -51,7 +51,7 @@ Estou sempre buscando aprimorar minhas habilidades em DevOps, explorar novas fer
 
 ## 🤝 Conecte-se comigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/claudio-rocha-bastos-freire/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/claudio-rocha-bastos-freire/)
 - 🐙 [GitHub](https://github.com/ClaudioR7)
 
 ---
